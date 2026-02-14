@@ -1,0 +1,17 @@
+
+  "n_seeds": 32,
+  "outputs": {
+    "boundary_overlay.png": "968a8262702bbb60a41980df18c21445ebd7ff4f569e49f42403526f4f1dcbee",
+    "boundary_overlay_PUBLIC.csv": "e34ae234af168c7074b74b3a9013f835254167752ddfa2c535f15725b6b25fc2",
+    "tau_invariance.csv": "4d84ec68056b27c707c17bc4fdf0429c594903d151f4210899b3df6b3f191c32"
+  },
+  "seedset_sha256": "d232fde1a35a697d87519a40fc91f0ffea2fbd45c853597a605dbfd75243c015",
+  "targets": [
+    0.003,
+    0.005,
+    0.007
+  ],
+  "tau_grid_len": 10,
+  "ticks": 4096,
+  "what": "RNSE PhaseProof (public-first): multi-threshold certified boundary overlay"
+}
